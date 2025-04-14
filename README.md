@@ -1,12 +1,20 @@
 # image_processing
 
 Descrição. 
+
+
 O pacote image_processing possui as funcionalidades:  
+
+
     Processing:  
+
         - Histrogram matching
         - Structural similarity
         - Resize image
+
+        
     Utils:  
+
         - Read image
         - Save image
         - Plot image
